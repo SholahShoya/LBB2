@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/961896/cd1b308d754346dfaaf4888a3fbb8ae4
+bundleId: https://api.rpubs.com/api/v1/document/961896/cd1b308d754346dfaaf4888a3fbb8ae4
+url: http://rpubs.com/sholahshoya/961896
+when: 1666768989.51553
+lastSyncTime: 1666768989.51554
